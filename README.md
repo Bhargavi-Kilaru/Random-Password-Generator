@@ -1,2 +1,3 @@
 # Random-Password-Generator
 A Code-Clause Internship Task about Creating a Random Password Generator using Python.
+A Code-Clause Internship Task about Creating a Random Password Generator using Python. A script made in python to generate a Random Password of any length of user's choice.There are 6 kinds of passwords namely Alphabetical,Numerical,Alphabetical and Numerical,Alphabetical and Special Charcaters,Numericals and Special Charcaters,Stronh Password that contains all the three types namely alphabets,numericals and Special Characters.The random and string modules are used to generate a new password each time the user enters the size of the password required.
